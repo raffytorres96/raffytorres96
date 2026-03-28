@@ -5,7 +5,7 @@
 
 ## 🧑‍💻 Chi sono
 
-Sono un laureando in **Informatica** presso l'**Università degli Studi di Bari**, con una tesi sull'integrazione di **BPM, RPA e Intelligenza Artificiale** per l'automazione dei processi aziendali.
+Sono un laureato in **Informatica** presso l'**Università degli Studi di Bari**, con una tesi sull'integrazione di **BPM, RPA e Intelligenza Artificiale** per l'automazione dei processi aziendali.
 
 Mi appassiona costruire software pulito e affidabile — dalle applicazioni full-stack ai workflow di automazione intelligente. Ho esperienza concreta con strumenti enterprise come **UiPath** e **Jamio**, maturata direttamente sul campo durante il progetto di tesi.
 
