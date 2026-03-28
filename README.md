@@ -5,7 +5,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Computer Science student based in **Italy**, graduating from the **University of Bari** with a thesis on the integration of **BPM, RPA and AI** for process automation.
+I'm a Computer Science student based in **Italy**, graduated from the **University of Bari** with a thesis on the integration of **BPM, RPA and AI** for process automation.
 
 I'm passionate about building clean, reliable software — from full-stack applications to intelligent automation workflows.
 
@@ -30,16 +30,13 @@ Full-stack data mining application with a **Java backend** (socket-based communi
 ## 🛠️ Tech Stack
 
 **Languages**
-`Java` `SQL` `Python` `C` `C++` `HTML/CSS`
+`Java` `SQL` `C` `C++` `HTML/CSS`
 
 **Backend & Tools**
-`REST API` `Docker` `Git` `Linux` `PostgreSQL`
+`REST API` `Docker` `Git` `Linux` `MySQL`
 
 **Automation & BPM**
 `UiPath Studio` `UiPath Orchestrator` `Jamio (BPM)`
-
-**Methodologies**
-`Agile` `Scrum`
 
 <br/>
 
@@ -53,7 +50,7 @@ Full-stack data mining application with a **Java backend** (socket-based communi
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
