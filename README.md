@@ -30,6 +30,11 @@ Applicazione client/server per il clustering con l'algoritmo **Quality Threshold
 
 Pipeline completa di Machine Learning per il rilevamento di transazioni fraudolente su dataset sbilanciato (284.807 transazioni, 0.17% frodi). Comprende EDA, K-Means clustering, 7 classificatori supervisionati e una rete neurale con TensorFlow/Keras.
 
+### ♟️ Ataxx
+> Java · Docker · JUnit · Agile/Scrum
+
+Implementazione CLI del gioco da tavolo astratto **Ataxx** su griglia 7×7, sviluppata in team seguendo una metodologia Agile con sprint, issue tracking e pull request su GitHub. Containerizzata con Docker e testata con JUnit.
+
 <br/>
 
 ## 🛠️ Tech Stack
@@ -42,6 +47,9 @@ Pipeline completa di Machine Learning per il rilevamento di transazioni fraudole
 
 **Automazione & BPM**
 `UiPath Studio` `UiPath Orchestrator` `Jamio (BPM)`
+
+**Metodologie**
+`Agile` `Scrum` `OOP` `TDD`
 
 <br/>
 
