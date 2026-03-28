@@ -1,53 +1,59 @@
-<h1 align="center">Hi, I'm Raffaele 👋</h1>
-<h3 align="center">Computer Science Graduate · Java Developer · BPM/RPA Enthusiast</h3>
+<h1 align="center">Ciao, sono Raffaele 👋</h1>
+<h3 align="center">Neolaureato in Informatica · Java Developer · BPM/RPA Enthusiast</h3>
 
 <br/>
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Chi sono
 
-I'm a Computer Science student based in **Italy**, graduated from the **University of Bari** with a thesis on the integration of **BPM, RPA and AI** for process automation.
+Sono un laureando in **Informatica** presso l'**Università degli Studi di Bari**, con una tesi sull'integrazione di **BPM, RPA e Intelligenza Artificiale** per l'automazione dei processi aziendali.
 
-I'm passionate about building clean, reliable software — from full-stack applications to intelligent automation workflows.
+Mi appassiona costruire software pulito e affidabile — dalle applicazioni full-stack ai workflow di automazione intelligente. Ho esperienza concreta con strumenti enterprise come **UiPath** e **Jamio**, maturata direttamente sul campo durante il progetto di tesi.
 
-Currently looking for **Junior Developer** or **Automation Engineer** opportunities, preferably remote.
+Sono alla ricerca di opportunità come **Junior Developer** o **Automation Engineer**, con preferenza per posizioni **full remote**.
 
 <br/>
 
-## 🚀 Projects
+## 🚀 Progetti
 
-### 🔄 Purchase Order Automation
+### 🔄 Purchase Order Automation — Tesi di Laurea
 > BPM · RPA · AI · Jamio · UiPath · REST API
 
-Thesis project integrating **Jamio** (BPM platform), **UiPath** (RPA), and AI to fully automate a purchase order workflow — from form submission to approval routing and document generation.
+Sistema di automazione end-to-end che integra **Jamio** (piattaforma BPM), **UiPath** (RPA) e componenti AI per automatizzare l'intero ciclo di un ordine d'acquisto — dalla sottomissione del form, al routing di approvazione, fino alla generazione documentale.
 
-### 📊 QTMiner
-> Java · Kotlin · Socket Communication · Data Mining
+### 🧠 QTMiner
+> Java · Kotlin · Socket · Data Mining
 
-Full-stack data mining application with a **Java backend** (socket-based communication) and a native **Kotlin mobile client**, built independently from scratch.
+Applicazione client/server per il clustering con l'algoritmo **Quality Threshold**, sviluppata interamente in autonomia. Backend Java con comunicazione via socket e database MySQL, client nativo Android in Kotlin.
+
+### 💳 Credit Card Fraud Detection
+> Python · scikit-learn · TensorFlow · Keras
+
+Pipeline completa di Machine Learning per il rilevamento di transazioni fraudolente su dataset sbilanciato (284.807 transazioni, 0.17% frodi). Comprende EDA, K-Means clustering, 7 classificatori supervisionati e una rete neurale con TensorFlow/Keras.
 
 <br/>
 
 ## 🛠️ Tech Stack
 
-**Languages**
-`Java` `SQL` `C` `C++` `HTML/CSS`
+**Linguaggi**
+`Java` `Python` `SQL` `C` `C++` `HTML/CSS`
 
 **Backend & Tools**
 `REST API` `Docker` `Git` `Linux` `MySQL`
 
-**Automation & BPM**
+**Automazione & BPM**
 `UiPath Studio` `UiPath Orchestrator` `Jamio (BPM)`
 
 <br/>
 
-## 📫 Get in Touch
+## 📫 Contatti
 
-- 💼 [LinkedIn](www.linkedin.com/in/raffaele-gatta-a27bb0178)
+- 💼 [LinkedIn](https://www.linkedin.com/in/raffaele-gatta-a27bb0178)
 
 <br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
