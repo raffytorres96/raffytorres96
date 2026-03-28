@@ -35,6 +35,11 @@ Pipeline completa di Machine Learning per il rilevamento di transazioni fraudole
 
 Implementazione CLI del gioco da tavolo astratto **Ataxx** su griglia 7×7, sviluppata in team seguendo una metodologia Agile con sprint, issue tracking e pull request su GitHub. Containerizzata con Docker e testata con JUnit.
 
+### 🔐 Cybersecurity — Red Team & Blue Team
+> Kali Linux · Metasploit · Social Engineering · Cyber Kill Chain
+
+Caso di studio offensivo/difensivo su un ente scolastico pubblico: simulazione di attacco spear phishing end-to-end seguendo le 7 fasi della **Cyber Kill Chain** (SET, Meterpreter Reverse TCP), e progettazione di un **serious game** per la sensibilizzazione alla cybersecurity.
+
 <br/>
 
 ## 🛠️ Tech Stack
@@ -47,6 +52,9 @@ Implementazione CLI del gioco da tavolo astratto **Ataxx** su griglia 7×7, svil
 
 **Automazione & BPM**
 `UiPath Studio` `UiPath Orchestrator` `Jamio (BPM)`
+
+**Cybersecurity**
+`Kali Linux` `Metasploit` `Nmap` `MITRE ATT&CK`
 
 **Metodologie**
 `Agile` `Scrum` `OOP` `TDD`
@@ -67,4 +75,5 @@ Implementazione CLI del gioco da tavolo astratto **Ataxx** su griglia 7×7, svil
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 </p>
